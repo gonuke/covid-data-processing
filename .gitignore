@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 *.swp
 *.swo
+settings.json
 
 __pycache__
